@@ -35,7 +35,7 @@ require (
 	github.com/stretchr/testify v1.4.0
 	github.com/xlab/handysort v0.0.0-20150421192137-fb3537ed64a1 // indirect
 	golang.org/x/sys v0.0.0-20191022100944-742c48ecaeb7
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible // indirect
 	k8s.io/api v0.0.0-20200305041328-b2d58f3063e7
 	k8s.io/apimachinery v0.0.0-20200303201514-6584f51ae935
