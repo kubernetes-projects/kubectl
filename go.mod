@@ -21,7 +21,7 @@ require (
 	github.com/golangplus/testing v0.0.0-20180327235837-af21d9c3145e // indirect
 	github.com/google/go-cmp v0.3.0
 	github.com/googleapis/gnostic v0.1.0
-	github.com/jonboulle/clockwork v0.1.0
+	github.com/jonboulle/clockwork v0.2.0
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de
 	github.com/lithammer/dedent v1.1.0
 	github.com/mitchellh/go-wordwrap v1.0.0
